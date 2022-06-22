@@ -47,6 +47,7 @@
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=andersoncastro-ti&repo=sprintnote&show_icons=true&theme=radical&title_color=0078D4&text_color=fff&icon_color=0078D4)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=andersoncastro-ti&repo=covid-chatbot&show_icons=true&theme=radical&title_color=0078D4&text_color=fff&icon_color=0078D4)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=andersoncastro-ti" id="counter">
