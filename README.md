@@ -11,7 +11,7 @@
 
 <img align="center" src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/connect.png?raw=true"/>
 
-- <a href="[https://www.linkedin.com/in/anderson-sousa-de-castro-771224160/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/anderson-sousa-de-castro-771224160/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - <a href="http://andersoncastro.tk/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20andersoncastro.tk-0078D4?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/skills.png?raw=true">
