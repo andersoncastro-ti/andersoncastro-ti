@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/about.png?raw=true"/>
 
-- 🔭 I’m currently working on SysAdmin
+- 🔭 I’m currently working as SysAdmin
 - 🌱 I’m currently learning DevOps | Frontend | Backend | Databases
 - 💬 Ask me anything about Help Desk | Service Desk
 - 📫 How to reach me: andersoncastro.ti@gmail.com
