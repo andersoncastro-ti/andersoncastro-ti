@@ -34,13 +34,13 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=0078D4)
 
 
-<img align="center" src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/git.png?raw=true"/>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=andersoncastro-ti&show_icons=true&theme=radical&title_color=0078D4&text_color=fff&icon_color=0078D4">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncastro-ti&theme=radical&title_color=0078D4&text_color=fff)
 
-<img src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/repo.png?raw=true">
+
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=andersoncastro-ti&repo=sprintnote&show_icons=true&theme=radical&title_color=0078D4&text_color=fff&icon_color=0078D4)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=andersoncastro-ti&repo=covid-chatbot&show_icons=true&theme=radical&title_color=0078D4&text_color=fff&icon_color=0078D4)
