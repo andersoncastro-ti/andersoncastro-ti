@@ -2,12 +2,12 @@
 
 <img align="center" src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/about.png?raw=true"/>
 
-- 🔭 I’m currently working on Linux
-- 🌱 I’m currently learning Frontend and Backend
-- 💬 Ask me anything about Frontend
+- 🔭 I’m currently working on SysAdmin
+- 🌱 I’m currently learning DevOps | Frontend | Backend | Databases
+- 💬 Ask me anything about Help Desk | Service Desk
 - 📫 How to reach me: andersoncastro.ti@gmail.com
 - 😄 My website: http://andersoncastro.tk/
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: i love technology
 
 <img align="center" src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/connect.png?raw=true"/>
 
