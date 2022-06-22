@@ -1,6 +1,3 @@
-<img align="center" src="https://raw.githubusercontent.com/andersoncastro-ti/andersoncastro-ti/master/assets/banner.gif"/>
-
-<img align="center" src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/about.png?raw=true"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -11,12 +8,10 @@
 - 😄 My website: http://andersoncastro.tk/
 - ⚡ Fun fact: i love technology
 
-<img align="center" src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/connect.png?raw=true"/>
 
 - <a href="https://www.linkedin.com/in/anderson-sousa-de-castro-771224160/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - <a href="http://andersoncastro.tk/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20andersoncastro.tk-0078D4?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
-<img align="center" src="https://github.com/andersoncastro-ti/andersoncastro-ti/blob/master/assets/skills.png?raw=true">
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=0078D4)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=0078D4)
