@@ -2,7 +2,7 @@
 <h2> 👨🏻‍💻 Olá! Eu sou o Anderson de Castro. </h2>
 </div>
   
-- 🔭 I’m currently working as SysAdmin
+- 🔭 I’m currently working as SysOps
 - 🌱 I’m currently learning DevOps | Frontend | Backend | Databases
 - 💬 Ask me anything about Help Desk | Service Desk
 - 📫 How to reach me: andersoncastro.ti@gmail.com
